@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,65:238636,85:1f6feb,100:0d1117&height=220&section=header&text=Mohsin%20Hassan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Backend%20%E2%80%A2%20Machine%20Learning&descSize=16&descAlignY=58&descAlign=50)](https://github.com/mohsinhassan06)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,65:238636,85:1f6feb,100:0d1117&height=220&section=header&text=Mohsin%20Hassan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full%20Stack%20Development&descSize=16&descAlignY=58&descAlign=50)](https://github.com/mohsinhassan06)
 
-### 💻 CS Undergrad · Backend & Systems Developer · ML Enthusiast
+### 💻 CS Undergrad · AI/ML · Data Science · Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+concurrent+systems+%26+ML+pipelines+that+solve+real+problems;Turning+coursework+into+production-grade+side+projects)](https://github.com/mohsinhassan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=true&width=650&height=80&lines=Building+Intelligent+AI%2FML+Pipelines+%26+Data-Driven+Solutions;Architecting+Full-Stack+Applications+from+Concept+to+Production;Turning+Data+into+Actionable+Insights+with+Machine+Learning)](https://github.com/mohsinhassan06)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
@@ -18,15 +18,14 @@
 ## 🎯 About Me
 
 ```python
-class SoftwareEngineer:
+class ComputerScience:
     def __init__(self):
         self.name         = "Mohsin Hassan"
-        self.role         = "CS Undergrad & Aspiring Software Engineer"
+        self.role         = "CS Undergrad & Aspiring Developer"
         self.university   = "FAST-NUCES (National University of Computer & Emerging Sciences)"
         self.degree       = "B.S. Computer Science"
         self.batch        = "24K-1005"
         self.location     = "Karachi, Pakistan 🇵🇰"
-        self.timezone     = "UTC+05:00 (PKT)"
 
     def get_expertise(self):
         return {
@@ -46,7 +45,7 @@ class SoftwareEngineer:
             "🏆 Competing in hackathons & programming contests",
         ]
 
-me = SoftwareEngineer()
+me = ComputerScience()
 print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ```
 
@@ -198,30 +197,7 @@ Low-level library management system implemented entirely in **x86 Assembly (MASM
 
 </details>
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinhassan06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=238636&text_color=c9d1d9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinhassan06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinhassan06&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=238636&currStreakLabel=58a6ff" />
-
-</div>
-
----
-
-## 🏆 Competitive & Extracurricular
-
-<div align="center">
-
-![Procom](https://img.shields.io/badge/Procom-Competitor-1F6FEB?style=for-the-badge)
-![DevDay](https://img.shields.io/badge/DevDay-Participant-238636?style=for-the-badge)
-![ACM](https://img.shields.io/badge/ACM_Coders_Cup-NUCES-A855F7?style=for-the-badge)
-
-</div>
 
 ---
 
