@@ -96,38 +96,58 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 ## 🚀 Featured Projects
 
-<table width="100%" style="border-collapse:separate;border-spacing:16px;">
+<table width="100%" style="border-collapse:separate;border-spacing:18px;">
 <tr>
 <td width="50%" valign="top" style="padding:0;">
-  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
-    <tr><td>
-      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">🚕 RideFare AI</strong></p>
-      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">End-to-end ML platform for fashion intelligence</p>
-      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">An intelligent prediction engine that estimates taxi trip costs in real-time. By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing.</p>
+  <table width="100%" style="background:#0f172a;border:1px solid #1f2a40;border-radius:20px;padding:18px;">
+    <tr><td style="padding-bottom:14px;border-bottom:1px solid #1f2a40;">
+      <p align="center" style="margin:0 0 4px;"><strong style="font-size:20px; color:#ffffff;">🚕 RideFare AI</strong></p>
+      <p align="center" style="margin:0;color:#94a3b8;font-size:13px;">Fashion E-Commerce ML System</p>
+    </td></tr>
+    <tr><td style="padding-top:14px;">
+      <p style="color:#e2e8f0; margin:0 0 12px; line-height:1.6;">End-to-end machine learning platform that predicts ride fares with marketplace-aware pricing and transparent surge estimation for taxi services.</p>
       <p style="margin:0 0 12px;">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/PyTorch-EA4335?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
         <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-        <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MLflow-00B0F0?style=flat&logo=mlflow&logoColor=white" alt="MLflow" />
+        <img src="https://img.shields.io/badge/FastAPI-14B8A6?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
-      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <ul style="color:#cbd5e1; margin:0 0 14px 16px; padding:0; line-height:1.65; list-style:none;">
+        <li>✨ Hybrid recommender using Sentence-BERT and implicit signals</li>
+        <li>📈 Demand forecasting with Prophet and ARIMA</li>
+        <li>🧠 NLP sentiment and trend analysis</li>
+        <li>🧩 Customer segmentation pipelines</li>
+        <li>🗄️ Parquet + PostgreSQL analytics layer</li>
+      </ul>
+      <p style="color:#94a3b8; margin:0 0 10px; font-size:13px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
       <p style="margin:0;"><a href="https://github.com/mohsinhassan06/RideFare-AI" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
     </td></tr>
   </table>
 </td>
 <td width="50%" valign="top" style="padding:0;">
-  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
-    <tr><td>
-      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">💳 SubTrack</strong></p>
-      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">Financial management platform for subscription visibility</p>
-      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A comprehensive platform that tracks recurring subscriptions, detects hidden price hikes, and identifies duplicate charges so users maintain full control over their spending.</p>
+  <table width="100%" style="background:#0f172a;border:1px solid #1f2a40;border-radius:20px;padding:18px;">
+    <tr><td style="padding-bottom:14px;border-bottom:1px solid #1f2a40;">
+      <p align="center" style="margin:0 0 4px;"><strong style="font-size:20px; color:#ffffff;">💳 SubTrack</strong></p>
+      <p align="center" style="margin:0;color:#94a3b8;font-size:13px;">Subscription intelligence and spend visibility</p>
+    </td></tr>
+    <tr><td style="padding-top:14px;">
+      <p style="color:#e2e8f0; margin:0 0 12px; line-height:1.6;">A platform that tracks recurring payments, detects price increases, and flags duplicate subscriptions so users can manage SaaS spending with confidence.</p>
       <p style="margin:0 0 12px;">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
       </p>
-      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <ul style="color:#cbd5e1; margin:0 0 14px 16px; padding:0; line-height:1.65; list-style:none;">
+        <li>🔍 Recurring subscription discovery and cost insights</li>
+        <li>⚠️ Hidden price hike and duplicate charge detection</li>
+        <li>📊 Visual spend tracking and monthly retention analysis</li>
+        <li>🔒 Secure authentication through JWT</li>
+        <li>🌐 Responsive web UI with polished interaction</li>
+      </ul>
+      <p style="color:#94a3b8; margin:0 0 10px; font-size:13px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
       <p style="margin:0;"><a href="https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
     </td></tr>
   </table>
@@ -135,34 +155,49 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 </tr>
 <tr>
 <td width="50%" valign="top" style="padding:0;">
-  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
-    <tr><td>
-      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">📈 Concurrent Stock Market Monitor</strong></p>
-      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">OS-level concurrency simulation for stock market data</p>
-      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A simulation that demonstrates how trading platforms handle massive concurrency and throughput while preventing deadlocks using POSIX threading concepts.</p>
+  <table width="100%" style="background:#0f172a;border:1px solid #1f2a40;border-radius:20px;padding:18px;">
+    <tr><td style="padding-bottom:14px;border-bottom:1px solid #1f2a40;">
+      <p align="center" style="margin:0 0 4px;"><strong style="font-size:20px; color:#ffffff;">📈 Concurrent Stock Market Monitor</strong></p>
+      <p align="center" style="margin:0;color:#94a3b8;font-size:13px;">Trading concurrency simulation with live data flow</p>
+    </td></tr>
+    <tr><td style="padding-top:14px;">
+      <p style="color:#e2e8f0; margin:0 0 12px; line-height:1.6;">An OS-level demonstration of how market platforms manage concurrent reads and writes, with a focus on safe shared access and event-driven throughput.</p>
       <p style="margin:0 0 12px;">
         <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/POSIX_Threads-FCC624?style=flat&logo=linux&logoColor=black" alt="POSIX" />
         <img src="https://img.shields.io/badge/GTK3-4A90D9?style=flat&logo=gtk&logoColor=white" alt="GTK3" />
       </p>
-      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <ul style="color:#cbd5e1; margin:0 0 14px 16px; padding:0; line-height:1.65; list-style:none;">
+        <li>⚡ High-throughput reader-writer synchronization</li>
+        <li>🛡️ Deadlock-resistant shared state management</li>
+        <li>📊 Simulated stock event processing with live metrics</li>
+        <li>🧠 POSIX thread coordination and performance tuning</li>
+      </ul>
+      <p style="color:#94a3b8; margin:0 0 10px; font-size:13px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
       <p style="margin:0;"><a href="https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
     </td></tr>
   </table>
 </td>
 <td width="50%" valign="top" style="padding:0;">
-  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
-    <tr><td>
-      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">🚦 Traffic Simulation System</strong></p>
-      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">Urban traffic modeling with queue-based signal optimization</p>
-      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A traffic simulation that models vehicle movement through complex intersections using graph structures and algorithmic signal control.</p>
+  <table width="100%" style="background:#0f172a;border:1px solid #1f2a40;border-radius:20px;padding:18px;">
+    <tr><td style="padding-bottom:14px;border-bottom:1px solid #1f2a40;">
+      <p align="center" style="margin:0 0 4px;"><strong style="font-size:20px; color:#ffffff;">🚦 Traffic Simulation System</strong></p>
+      <p align="center" style="margin:0;color:#94a3b8;font-size:13px;">Graph-based urban traffic flow optimizer</p>
+    </td></tr>
+    <tr><td style="padding-top:14px;">
+      <p style="color:#e2e8f0; margin:0 0 12px; line-height:1.6;">A simulation tool for testing intersection signal rules, vehicle queue behavior, and traffic throughput under varying load scenarios.</p>
       <p style="margin:0 0 12px;">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/OOP-2E86C1?style=flat" alt="OOP" />
         <img src="https://img.shields.io/badge/Graph_Theory-28B463?style=flat" alt="Graph Theory" />
       </p>
-      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <ul style="color:#cbd5e1; margin:0 0 14px 16px; padding:0; line-height:1.65; list-style:none;">
+        <li>🚦 Adaptive signal timing and queue optimization</li>
+        <li>📐 Graph-based lane and intersection modeling</li>
+        <li>🔁 Congestion management through algorithmic control</li>
+      </ul>
+      <p style="color:#94a3b8; margin:0 0 10px; font-size:13px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
       <p style="margin:0;"><a href="https://github.com/mohsinhassan06/traffic-simulation-system" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
     </td></tr>
   </table>
