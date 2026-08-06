@@ -4,7 +4,7 @@
 
 ### 💻 CS Undergrad · AI/ML · Data Science · Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Engineering+AI%2FML+Models+%26+Data-Driven+Solutions;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights)](https://github.com/mohsinhassan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Building+AI%2FML+Systems+%26+Models;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights)](https://github.com/mohsinhassan06)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
@@ -39,17 +39,16 @@ class ComputerScience:
 
     def get_current_focus(self):
         return [
+            "🧠 Deepening expertise in AI/ML & Data Science",
             "🔧 Sharpening systems programming & concurrency patterns",
-            "🤖 Building end-to-end ML pipelines with real-world data",
-            "🏗️ Designing normalized database schemas & stored procedures",
-            "🏆 Competing in hackathons & programming contests",
+            "🏗️ Designing normalized database schemas & scalable architectures",
         ]
 
 me = ComputerScience()
 print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ```
 
-> I'm a Junior at **FAST-NUCES** who turns coursework into production-grade side projects. My core purpose is building software that solves complex problems — whether that means engineering an intelligent price-prediction system, designing a fault-tolerant banking application, or wrestling with OS-level thread synchronization. My work spans **backend development**, **applied ML**, and **concurrent systems**.
+> 🚀 Crafting reliable and effective systems — from intelligent AI/ML models to robust backends.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
@@ -173,13 +172,7 @@ The object-oriented design guarantees accurate balance tracking and comprehensiv
 </td>
 <td width="50%">
 
-### [📚 Library Management System](https://github.com/mohsinhassan06/Library-Management-System-)
-A low-level inventory tracking system that manages library book check-ins, check-outs, and overall catalog availability. 
-It demonstrates extreme hardware optimization by directly interacting with system memory and manipulating CPU registers. 
-Written entirely in MASM, this project proves deep mastery of computer architecture and assembly-level logic.
-
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
-![MASM](https://img.shields.io/badge/MASM-003B57?style=flat)
+<!-- Empty cell to balance the table structure -->
 
 </td>
 </tr>
