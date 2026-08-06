@@ -158,11 +158,18 @@ Engineers can use this simulation to test various signal timing strategies under
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
-## 🤝 Let's Connect
+## 🤝 Open To
+
+- 🔥 **Software Engineering & Full-Stack Development** internships or junior roles
+- 🤖 **AI/ML Research** collaborations and model engineering projects
+- 📊 **Data Science** projects involving data analysis, visualization, and insights
+- 🌱 **Open-source** contributions and community work
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+
+## 📫 Let's Connect
 
 <div align="center">
-
-I'm actively seeking **internship opportunities** in **backend development**, **applied ML**, or **systems programming**.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
