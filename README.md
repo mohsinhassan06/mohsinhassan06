@@ -96,78 +96,76 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 ## 🚀 Featured Projects
 
-<table>
+<table width="100%" style="border-collapse:separate;border-spacing:16px;">
 <tr>
-<td width="50%">
-
-**🚕 RideFare AI**
-
-An intelligent prediction engine that estimates taxi trip costs in real-time.
-By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing.
-Commuters benefit from accurate, surge-aware fare estimates powered by ensemble regression models.
-
-**View Project:** [Open RideFare AI](https://github.com/mohsinhassan06/RideFare-AI)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-
+<td width="50%" valign="top" style="padding:0;">
+  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
+    <tr><td>
+      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">🚕 RideFare AI</strong></p>
+      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">End-to-end ML platform for fashion intelligence</p>
+      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">An intelligent prediction engine that estimates taxi trip costs in real-time. By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing.</p>
+      <p style="margin:0 0 12px;">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas" />
+      </p>
+      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <p style="margin:0;"><a href="https://github.com/mohsinhassan06/RideFare-AI" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
+    </td></tr>
+  </table>
 </td>
-<td width="50%">
-
-**💳 SubTrack**
-
-A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions.
-It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges.
-The platform ensures users retain full visibility and control over their monthly digital expenditures.
-
-**View Project:** [Open SubTrack](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
+<td width="50%" valign="top" style="padding:0;">
+  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
+    <tr><td>
+      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">💳 SubTrack</strong></p>
+      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">Financial management platform for subscription visibility</p>
+      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A comprehensive platform that tracks recurring subscriptions, detects hidden price hikes, and identifies duplicate charges so users maintain full control over their spending.</p>
+      <p style="margin:0 0 12px;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      </p>
+      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <p style="margin:0;"><a href="https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
+    </td></tr>
+  </table>
 </td>
 </tr>
-
 <tr>
-<td width="50%">
-
-**📈 Concurrent Stock Market Monitor**
-
-An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput.
-It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds.
-The system ensures safe data access without deadlocks, offering a deep dive into POSIX threading.
-
-**View Project:** [Open Concurrent Stock Market Monitor](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX_Threads-FCC624?style=flat&logo=linux&logoColor=black)
-![GTK3](https://img.shields.io/badge/GTK3-4A90D9?style=flat&logo=gtk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+<td width="50%" valign="top" style="padding:0;">
+  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
+    <tr><td>
+      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">📈 Concurrent Stock Market Monitor</strong></p>
+      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">OS-level concurrency simulation for stock market data</p>
+      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A simulation that demonstrates how trading platforms handle massive concurrency and throughput while preventing deadlocks using POSIX threading concepts.</p>
+      <p style="margin:0 0 12px;">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/POSIX_Threads-FCC624?style=flat&logo=linux&logoColor=black" alt="POSIX" />
+        <img src="https://img.shields.io/badge/GTK3-4A90D9?style=flat&logo=gtk&logoColor=white" alt="GTK3" />
+      </p>
+      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <p style="margin:0;"><a href="https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
+    </td></tr>
+  </table>
 </td>
-<td width="50%">
-
-**🚦 Traffic Simulation System**
-
-An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections.
-It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow.
-Engineers can use this simulation to test various signal timing strategies under heavy load conditions.
-
-**View Project:** [Open Traffic Simulation System](https://github.com/mohsinhassan06/traffic-simulation-system)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
-![Graph Theory](https://img.shields.io/badge/Graph_Theory-28B463?style=flat)
-
+<td width="50%" valign="top" style="padding:0;">
+  <table width="100%" style="background:#0b1220;border:1px solid #1f2937;border-radius:18px;padding:18px;">
+    <tr><td>
+      <p align="center" style="margin:0 0 12px;"><strong style="font-size:20px; color:#ffffff;">🚦 Traffic Simulation System</strong></p>
+      <p style="color:#cbd5e1; margin:0 0 10px; font-size:14px;">Urban traffic modeling with queue-based signal optimization</p>
+      <p style="color:#e2e8f0; margin:0 0 14px; line-height:1.5;">A traffic simulation that models vehicle movement through complex intersections using graph structures and algorithmic signal control.</p>
+      <p style="margin:0 0 12px;">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+        <img src="https://img.shields.io/badge/OOP-2E86C1?style=flat" alt="OOP" />
+        <img src="https://img.shields.io/badge/Graph_Theory-28B463?style=flat" alt="Graph Theory" />
+      </p>
+      <p style="color:#94a3b8; margin:0 0 10px;"><strong style="color:#ffffff;">Role:</strong> Contributor</p>
+      <p style="margin:0;"><a href="https://github.com/mohsinhassan06/traffic-simulation-system" style="text-decoration:none;"><img src="https://img.shields.io/badge/View%20Project-%E2%86%92-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="View Project" /></a></p>
+    </td></tr>
+  </table>
 </td>
 </tr>
 </table>
