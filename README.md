@@ -39,9 +39,9 @@ class ComputerScience:
 
     def get_current_focus(self):
         return [
-            "🧠 Deepening expertise in AI/ML & Data Science",
-            "🔧 Sharpening systems programming & concurrency patterns",
-            "🏗️ Designing normalized database schemas & scalable architectures",
+            "🧠 Conducting current research in advanced AI systems",
+            "🤖 Building and deploying end-to-end Machine Learning models",
+            "🏗️ Architecting scalable Full-Stack web applications",
         ]
 
 me = ComputerScience()
