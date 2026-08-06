@@ -176,7 +176,7 @@ I'm actively seeking **internship opportunities** in **backend development**, **
 
 <br>
 <p align="center">
-  <i>"Intelligence is not just about learning — it's about reasoning, adapting, and explaining." 👽</i>
+  <i>"Building systems that don't just compute, but comprehend and evolve." 🌌</i>
 </p>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,65:238636,85:1f6feb,100:0d1117&height=120&section=footer)](https://github.com/mohsinhassan06)
