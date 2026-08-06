@@ -54,6 +54,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <div align="center">
 
 ### 💬 Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,6 +64,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -75,6 +77,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### 🗄️ Databases & Tools
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -84,6 +87,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 Concepts & Coursework
+
 `Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Database Systems` · `Artificial Intelligence`
 
 </div>
@@ -97,9 +101,12 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### 🚕 [**RideFare AI**](https://github.com/mohsinhassan06/RideFare-AI)
-An intelligent prediction engine that estimates taxi trip costs in real-time. 
-By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing. 
+
+An intelligent prediction engine that estimates taxi trip costs in real-time.
+By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing.
 Commuters benefit from accurate, surge-aware fare estimates powered by ensemble regression models.
+
+**View Project:** [Open RideFare AI](https://github.com/mohsinhassan06/RideFare-AI)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -112,9 +119,12 @@ Commuters benefit from accurate, surge-aware fare estimates powered by ensemble 
 <td width="50%">
 
 ### 💳 [**SubTrack**](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
-A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions. 
-It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges. 
+
+A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions.
+It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges.
 The platform ensures users retain full visibility and control over their monthly digital expenditures.
+
+**View Project:** [Open SubTrack](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -130,9 +140,12 @@ The platform ensures users retain full visibility and control over their monthly
 <td width="50%">
 
 ### 📈 [**Concurrent Stock Market Monitor**](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
-An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput. 
-It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds. 
+
+An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput.
+It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds.
 The system ensures safe data access without deadlocks, offering a deep dive into POSIX threading.
+
+**View Project:** [Open Concurrent Stock Market Monitor](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -144,9 +157,12 @@ The system ensures safe data access without deadlocks, offering a deep dive into
 <td width="50%">
 
 ### 🚦 [**Traffic Simulation System**](https://github.com/mohsinhassan06/traffic-simulation-system)
-An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections. 
-It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow. 
+
+An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections.
+It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow.
 Engineers can use this simulation to test various signal timing strategies under heavy load conditions.
+
+**View Project:** [Open Traffic Simulation System](https://github.com/mohsinhassan06/traffic-simulation-system)
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
