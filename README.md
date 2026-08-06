@@ -4,7 +4,7 @@
 
 ### 💻 CS Undergrad · AI/ML · Data Science · Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Building+AI%2FML+Systems+%26+Models;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights)](https://github.com/mohsinhassan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Computer+Science+Student+%40+FAST-NUCES;Building+AI%2FML+Systems+%26+Models;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights;Always+learning+and+exploring+new+tech)](https://github.com/mohsinhassan06)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
@@ -20,12 +20,9 @@
 ```python
 class ComputerScience:
     def __init__(self):
-        self.name         = "Mohsin Hassan"
-        self.role         = "CS Undergrad & Aspiring Developer"
-        self.university   = "FAST-NUCES (National University of Computer & Emerging Sciences)"
-        self.degree       = "B.S. Computer Science"
-        self.batch        = "24K-1005"
-        self.location     = "Karachi, Pakistan 🇵🇰"
+        self.name     = "Mohsin Hassan"
+        self.degree   = "B.S. Computer Science @ FAST-NUCES"
+        self.location = "Karachi, Pakistan 🇵🇰"
 
     def get_expertise(self):
         return {
