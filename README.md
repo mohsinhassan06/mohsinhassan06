@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,65:238636,85:1f6feb,100:0d1117&height=220&section=header&text=Mohsin%20Hassan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full%20Stack&descSize=16&descAlignY=58&descAlign=50)](https://github.com/mohsinhassan06)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:059669,65:F59E0B,85:10B981,100:0d1117&height=220&section=header&text=Mohsin%20Hassan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Full%20Stack&descSize=16&descAlignY=58&descAlign=50)](https://github.com/mohsinhassan06)
 
 ### 💻 CS Undergrad · AI/ML · Data Science · Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Computer+Science+Student+%40+FAST-NUCES;Building+AI%2FML+Systems+%26+Models;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights;Always+learning+and+exploring+new+tech)](https://github.com/mohsinhassan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Computer+Science+Student+%40+FAST-NUCES;Building+AI%2FML+Systems+%26+Models;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights;Always+learning+and+exploring+new+tech)](https://github.com/mohsinhassan06)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
 ## 🎯 About Me
 
@@ -47,7 +47,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 > 🚀 Crafting reliable and effective systems — from intelligent AI/ML models to robust backends.
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
 ## 🛠️ Technical Arsenal
 
@@ -88,7 +88,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -156,7 +156,7 @@ Engineers can use this simulation to test various signal timing strategies under
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
 ## 🤝 Open To
 
@@ -165,7 +165,7 @@ Engineers can use this simulation to test various signal timing strategies under
 - 📊 **Data Science** projects involving data analysis, visualization, and insights
 - 🌱 **Open-source** contributions and community work
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
 ## 📫 Let's Connect
 
@@ -175,9 +175,9 @@ Engineers can use this simulation to test various signal timing strategies under
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsinhassan06)
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:10B981,100:0d1117&height=4&section=header"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mohsinhassan06&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=mohsinhassan06&color=10B981&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -186,4 +186,4 @@ Engineers can use this simulation to test various signal timing strategies under
   <i>"Intelligence writes the algorithm, but relentless effort compiles the reality." 💻</i>
 </p>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:1f6feb,65:238636,85:1f6feb,100:0d1117&height=120&section=footer)](https://github.com/mohsinhassan06)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,40:059669,65:F59E0B,85:10B981,100:0d1117&height=120&section=footer)](https://github.com/mohsinhassan06)
