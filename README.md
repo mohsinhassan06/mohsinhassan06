@@ -62,7 +62,6 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -88,7 +87,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 🧠 Concepts & Coursework
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Database Systems` · `Artificial Intelligence` · `Computer Architecture (COAL)` · `Discrete Mathematics` · `Calculus` · `Linear Algebra`
+`Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Database Systems` · `Artificial Intelligence`
 
 </div>
 
@@ -109,6 +108,7 @@ Commuters benefit from accurate, surge-aware fare estimates powered by ensemble 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
 </td>
@@ -122,8 +122,9 @@ The platform ensures users retain full visibility and control over their monthly
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 </td>
 </tr>
@@ -140,6 +141,7 @@ The system ensures safe data access without deadlocks, offering a deep dive into
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![POSIX](https://img.shields.io/badge/POSIX_Threads-FCC624?style=flat&logo=linux&logoColor=black)
 ![GTK3](https://img.shields.io/badge/GTK3-4A90D9?style=flat&logo=gtk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 </td>
 <td width="50%">
@@ -151,28 +153,7 @@ Engineers can use this simulation to test various signal timing strategies under
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
-![DSA](https://img.shields.io/badge/Graph_Theory-28B463?style=flat)
-![Valgrind](https://img.shields.io/badge/Memory_Safe-27AE60?style=flat)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### [🏦 Bank Management System](https://github.com/mohsinhassan06/Bank-Management-System-main)
-A robust digital banking console application serving as a secure backbone for managing and overseeing user financial accounts. 
-It effortlessly processes day-to-day transactions including deposits, withdrawals, and inter-account transfers. 
-The object-oriented design guarantees accurate balance tracking and comprehensive file-based data retention.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
-![File I/O](https://img.shields.io/badge/File_I%2FO-5B2C6F?style=flat)
-
-</td>
-<td width="50%">
-
-<!-- Empty cell to balance the table structure -->
+![Graph Theory](https://img.shields.io/badge/Graph_Theory-28B463?style=flat)
 
 </td>
 </tr>
