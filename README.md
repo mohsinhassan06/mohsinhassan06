@@ -4,7 +4,7 @@
 
 ### 💻 CS Undergrad · AI/ML · Data Science · Full Stack
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Building+AI%2FML+Systems+%26+Data-Driven+Solutions;Architecting+Full-Stack+Systems+for+Production;Turning+Data+into+Actionable+Insights)](https://github.com/mohsinhassan06)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Engineering+AI%2FML+Models+%26+Data-Driven+Solutions;Architecting+Full-Stack+Web+Applications;Turning+Complex+Data+into+Actionable+Insights)](https://github.com/mohsinhassan06)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsinhassan06)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
@@ -102,7 +102,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [🚕 RideFare AI](https://github.com/mohsinhassan06/RideFare-AI)
-**Purpose:** An intelligent prediction system that estimates taxi trip costs in real-time. It analyzes historical ride-share market data to prevent price gouging and provide transparent fare estimates for commuters.
+An intelligent prediction engine that estimates taxi trip costs in real-time. 
+By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing. 
+Commuters benefit from accurate, surge-aware fare estimates powered by ensemble regression models.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -114,7 +116,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [💳 SubTrack](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
-**Purpose:** A financial management platform designed to help users track their recurring software subscriptions. It actively detects hidden price hikes and flags duplicate billing across various digital services.
+A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions. 
+It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges. 
+The platform ensures users retain full visibility and control over their monthly digital expenditures.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
@@ -129,7 +133,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [📈 Concurrent Stock Market Monitor](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
-**Purpose:** An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency. It visualizes the classic Reader-Writer synchronization problem using live data feeds and thread locks.
+An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput. 
+It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds. 
+The system ensures safe data access without deadlocks, offering a deep dive into POSIX threading.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -140,7 +146,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [🚦 Traffic Simulation System](https://github.com/mohsinhassan06/traffic-simulation-system)
-**Purpose:** An urban infrastructure analysis tool built to model vehicle movement through complex intersections. It uses algorithmic signal logic to optimize traffic flow and reduce commute bottlenecks.
+An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections. 
+It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow. 
+Engineers can use this simulation to test various signal timing strategies under heavy load conditions.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
@@ -154,7 +162,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [🏦 Bank Management System](https://github.com/mohsinhassan06/Bank-Management-System-main)
-**Purpose:** A digital banking console application serving as the backbone for securely managing user accounts. It processes deposits, withdrawals, and inter-account transfers while safely persisting financial records.
+A robust digital banking console application serving as a secure backbone for managing and overseeing user financial accounts. 
+It effortlessly processes day-to-day transactions including deposits, withdrawals, and inter-account transfers. 
+The object-oriented design guarantees accurate balance tracking and comprehensive file-based data retention.
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
@@ -164,7 +174,9 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <td width="50%">
 
 ### [📚 Library Management System](https://github.com/mohsinhassan06/Library-Management-System-)
-**Purpose:** A low-level inventory tracking system that manages library book check-ins and check-outs. It demonstrates extreme hardware optimization by directly interacting with system memory and CPU registers.
+A low-level inventory tracking system that manages library book check-ins, check-outs, and overall catalog availability. 
+It demonstrates extreme hardware optimization by directly interacting with system memory and manipulating CPU registers. 
+Written entirely in MASM, this project proves deep mastery of computer architecture and assembly-level logic.
 
 ![Assembly](https://img.shields.io/badge/x86_Assembly-6E4C13?style=flat&logo=assemblyscript&logoColor=white)
 ![MASM](https://img.shields.io/badge/MASM-003B57?style=flat)
