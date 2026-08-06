@@ -13,7 +13,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
 ## 🎯 About Me
 
@@ -51,7 +51,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 > I'm a Junior at **FAST-NUCES** who turns coursework into production-grade side projects. My core purpose is building software that solves complex problems — whether that means engineering an intelligent price-prediction system, designing a fault-tolerant banking application, or wrestling with OS-level thread synchronization. My work spans **backend development**, **applied ML**, and **concurrent systems**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
 ## 🛠️ Technical Arsenal
 
@@ -93,7 +93,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
 ## 🚀 Featured Projects
 
@@ -185,7 +185,7 @@ Written entirely in MASM, this project proves deep mastery of computer architect
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
 ## 🤝 Let's Connect
 
@@ -197,7 +197,7 @@ I'm actively seeking **internship opportunities** in **backend development**, **
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsin.hn.06@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohsinhassan06)
 
----
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:1f6feb,100:0d1117&height=4&section=header"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohsinhassan06&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
