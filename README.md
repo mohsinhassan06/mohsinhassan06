@@ -96,7 +96,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <tr>
 <td width="50%">
 
-### 🚕 [**RideFare AI**](https://github.com/mohsinhassan06/RideFare-AI)
+### 🚕 **RideFare AI**
 An intelligent prediction engine that estimates taxi trip costs in real-time. 
 By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing. 
 Commuters benefit from accurate, surge-aware fare estimates powered by ensemble regression models.
@@ -108,10 +108,12 @@ Commuters benefit from accurate, surge-aware fare estimates powered by ensemble 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
 
+**[View Project →](https://github.com/mohsinhassan06/RideFare-AI)**
+
 </td>
 <td width="50%">
 
-### 💳 [**SubTrack**](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
+### 💳 **SubTrack**
 A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions. 
 It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges. 
 The platform ensures users retain full visibility and control over their monthly digital expenditures.
@@ -123,13 +125,15 @@ The platform ensures users retain full visibility and control over their monthly
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
+**[View Project →](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)**
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
 
-### 📈 [**Concurrent Stock Market Monitor**](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
+### 📈 **Concurrent Stock Market Monitor**
 An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput. 
 It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds. 
 The system ensures safe data access without deadlocks, offering a deep dive into POSIX threading.
@@ -140,10 +144,12 @@ The system ensures safe data access without deadlocks, offering a deep dive into
 ![GTK3](https://img.shields.io/badge/GTK3-4A90D9?style=flat&logo=gtk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+**[View Project →](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)**
+
 </td>
 <td width="50%">
 
-### 🚦 [**Traffic Simulation System**](https://github.com/mohsinhassan06/traffic-simulation-system)
+### 🚦 **Traffic Simulation System**
 An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections. 
 It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow. 
 Engineers can use this simulation to test various signal timing strategies under heavy load conditions.
@@ -151,6 +157,8 @@ Engineers can use this simulation to test various signal timing strategies under
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-2E86C1?style=flat)
 ![Graph Theory](https://img.shields.io/badge/Graph_Theory-28B463?style=flat)
+
+**[View Project →](https://github.com/mohsinhassan06/traffic-simulation-system)**
 
 </td>
 </tr>
