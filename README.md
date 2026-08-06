@@ -100,7 +100,7 @@ print(f"👋 Hi, I'm {me.name} — let's build something that matters.")
 <tr>
 <td width="50%">
 
-### 🚕 [**RideFare AI**](https://github.com/mohsinhassan06/RideFare-AI)
+**🚕 RideFare AI**
 
 An intelligent prediction engine that estimates taxi trip costs in real-time.
 By analyzing historical ride-share market data, it prevents price gouging and ensures transparent pricing.
@@ -118,7 +118,7 @@ Commuters benefit from accurate, surge-aware fare estimates powered by ensemble 
 </td>
 <td width="50%">
 
-### 💳 [**SubTrack**](https://github.com/mohsinhassan06/SubTrack-Subscription-Intelligence)
+**💳 SubTrack**
 
 A comprehensive financial management platform designed to help users track and monitor their recurring software subscriptions.
 It actively scans billing histories to detect hidden price hikes, unnecessary upgrades, and duplicate charges.
@@ -139,7 +139,7 @@ The platform ensures users retain full visibility and control over their monthly
 <tr>
 <td width="50%">
 
-### 📈 [**Concurrent Stock Market Monitor**](https://github.com/mohsinhassan06/Concurrent-Stock-Market-Monitor)
+**📈 Concurrent Stock Market Monitor**
 
 An educational OS-level simulation that demonstrates how modern trading platforms handle massive concurrency and data throughput.
 It provides a visual exploration of the classic Reader-Writer synchronization problem using live data feeds.
@@ -156,7 +156,7 @@ The system ensures safe data access without deadlocks, offering a deep dive into
 </td>
 <td width="50%">
 
-### 🚦 [**Traffic Simulation System**](https://github.com/mohsinhassan06/traffic-simulation-system)
+**🚦 Traffic Simulation System**
 
 An urban infrastructure analysis tool built to mathematically model vehicle movement through complex and busy intersections.
 It utilizes algorithmic signal logic, linked-list queues, and graph data structures to optimize flow.
